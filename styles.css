@@ -1,0 +1,43 @@
+.website-title{
+               text-align: center;
+               text-shadow: 1px 1px;
+               font-family: "Roboto", sans-serif;
+               font-weight: 700;
+               font-style: normal;
+               margin-bottom: 50px;
+
+}
+
+
+ img{
+      width: 450px;
+ }    
+
+.img-container{
+      display: flex;
+      flex-shrink:1 !important;
+      flex-basis: auto !important;
+      margin-bottom: 40px;
+      justify-content: center;
+}
+
+html{
+      background-color: black !important;
+}
+
+.container{
+            background-color: #EEEEEE;
+}
+
+
+
+.bold-word{
+      font-weight: 900;
+}
+
+
+
+
+
+
+
